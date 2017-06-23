@@ -2,6 +2,11 @@
 __pycache__/
 *.py[cod]
 *$py.class
+*.tgz
+flower_photos/
+inception/
+bottlenecks/
+training_summaries/
 
 # C extensions
 *.so
